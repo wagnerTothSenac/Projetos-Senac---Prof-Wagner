@@ -9,7 +9,5 @@
     Olá Mundo, Wagner Toth
     Olá Mundo, Rogerio Pupo
 
-    qualquer coisa
-
 </body>
 </html>
